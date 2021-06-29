@@ -1,7 +1,7 @@
-### Hi there 👋
+### Hi Bros let's coding with fun...👋
 
 <!--
-**persikida/persikida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**SILICIDA/SILICIDA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 Now working on cyber security ...
+- 🌱 Now playing with python & golang & cyber security ...
+- ⚡ Fun fact: playing switch ...
+
+
+[![](https://img.shields.io/badge/OS-kali%20Linux-33aadd?style=flat-square&logo=kali-linux&logoColor=ffffff)](https://simpleicons.org/icons/kalilinux.svg)
+[![](https://img.shields.io/badge/iOS-iphone11-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://simpleicons.org/icons/ios.svg)
+[![](https://img.shields.io/badge/golang-292e33?style=flat-square&logo=go&logoColor=ffffff)](https://simpleicons.org/icons/go.svg)
+![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
+[![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/antzuhl)
+
+![](https://visitor-badge.glitch.me/badge?page_id=persikida)
+
+![](https://github-readme-stats.vercel.app/api?username=persikida&show_icons=true&count_private=true&hide=prs&theme=dark)
