@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: playing switch ...
 
 
-[![](https://img.shields.io/badge/OS-mac%20osMonterey-33aadd?style=flat-square&logo=kali-linux&logoColor=ffffff)](https://simpleicons.org/icons/kalilinux.svg)
+[![](https://img.shields.io/badge/OS-MacOs%Monterey-33aadd?style=flat-square&logo=kali-linux&logoColor=ffffff)](https://simpleicons.org/icons/kalilinux.svg)
 [![](https://img.shields.io/badge/iOS-iphone12pro-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://simpleicons.org/icons/ios.svg)
 [![](https://img.shields.io/badge/golang-292e33?style=flat-square&logo=go&logoColor=ffffff)](https://simpleicons.org/icons/go.svg)
 ![](https://img.shields.io/badge/-Nintendo%20Switch-e60012?style=flat-square&logo=nintendo%20switch&logoColor=ffffff)
