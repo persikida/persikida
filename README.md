@@ -1,7 +1,7 @@
 ### Hi Bros let's coding with fun...👋
 
 <!--
-**SILICIDA/SILICIDA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**PERSIKIDA/PERSIKIDA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -25,6 +25,5 @@ Here are some ideas to get you started:
 [![](https://img.shields.io/badge/golang-292e33?style=flat-square&logo=go&logoColor=ffffff)](https://simpleicons.org/icons/go.svg)
 [![](https://img.shields.io/badge/Steam-171a21?style=flat-square&logo=steam&logoColor=ffffff)](https://steamcommunity.com/id/persikida)
 
-![](https://visitor-badge.glitch.me/badge?page_id=persikida)
 
 ![](https://github-readme-stats.vercel.app/api?username=persikida&show_icons=true&count_private=true&hide=prs&theme=dark)
